@@ -1,13 +1,13 @@
 [
-  "HTML",
-  "CSS",
-  "JavaScript",
+  "Tableau",
+  "Android Studio",
+  "Eclipse",
   "Python",
-  "Java",
-  "C",
-  "NodeJS",
-  "Django",
-  "ExpressJS",
+  "Devops",
+  "Tailwind",
+  "Git",
+  "SpringBoot",
+  "ment",
   "AngularJS",
   "SQL",
   "NoSQL",
@@ -25,5 +25,6 @@
   "Devops",
   "Tailwind",
   "Git",
-  "SpringBoot"
+  "SpringBoot",
+  "ment"
 ]
