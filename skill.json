@@ -4,9 +4,9 @@
   "Eclipse",
   "Android Studio",
   "Devops",
-  "Tailwind",
   "Git",
-  "SpringBoot",
+  "Git",
+  null,
   "AngularJS",
   "SQL",
   "NoSQL",
@@ -24,6 +24,5 @@
   "Devops",
   "Tailwind",
   "Git",
-  "SpringBoot",
-  null
+  "SpringBoot"
 ]
