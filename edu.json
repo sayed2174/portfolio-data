@@ -56,17 +56,5 @@
         "10th"
       ]
     }
-  },
-  {
-    "degree": "SSC (10th)",
-    "school": "Government High School",
-    "year": "2019",
-    "score": "GPA: 9.0",
-    "link": "https://bse.ap.gov.in",
-    "semesters": {
-      "Final Year": [
-        "10th"
-      ]
-    }
   }
 ]
