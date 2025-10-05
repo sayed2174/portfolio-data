@@ -1,119 +1,26 @@
 [
   {
-    "title": "Android App Debloater",
-    "description": "A Windows application (.exe) used for uninstalling or debloating unwanted Android applications directly from a Windows operating system.",
-    "tags": [
-      "Python",
-      "Java",
-      "Android",
-      "Android Studio",
-      "Chaquopy",
-      "Material 3"
-    ],
-    "githubLink": "https://github.com/sayed2174/Android-Debloater-APP"
+    "title": "Portfolio Website",
+    "description": "A dynamic personal portfolio built with React, Tailwind CSS, and Framer Motion to showcase my skills and projects in an interactive way.",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+    "githubLink": "https://github.com/sayed2174",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
-    "title": "Heart Disease Prediction System",
-    "description": "A Machine Learning model that uses supervised algorithms to predict whether a patient has heart disease based on clinical parameters. The UI is a website built with Django.",
-    "tags": [
-      "Machine Learning",
-      "Python",
-      "Django",
-      "Scikit-learn",
-      "Pandas",
-      "Supervised Algorithms"
-    ],
-    "githubLink": "https://github.com/sayed2174/Heart-Disease-Prediction-System"
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce site featuring product listings, a shopping cart, and a secure checkout process using the MERN stack.",
+    "youtubeVideoId": "gznz-p_ntkU",
+    "tags": ["MongoDB", "Express", "React", "Node.js"],
+    "githubLink": "https://github.com/sayed2174",
+    "liveLink": null
   },
   {
-    "title": "Live Wallpaper Android App",
-    "description": "An Android app that sets dynamic and static wallpapers from user-selected images. It features a time interval setting for automatically changing wallpapers.",
-    "tags": [
-      "Android Studio",
-      "Java",
-      "Android"
-    ],
-    "githubLink": "https://github.com/sayed2174/Live-Wallpaper-Android-App"
-  },
-  {
-    "title": "Video Wallpaper Android App",
-    "description": "An Android app for setting videos as dynamic wallpapers. It includes features to add or remove videos and set a time interval for automatic video changes.",
-    "tags": [
-      "Android Studio",
-      "Java",
-      "Android"
-    ],
-    "githubLink": "https://github.com/sayed2174/Video-Wallpaper-Android-App"
-  },
-  {
-    "title": "YouTube Comments Extractor",
-    "description": "A tool to extract and analyze YouTube comments using the YouTube API and Python. It ethically mines comment data and exports it to JSON and Excel formats.",
-    "tags": [
-      "Python",
-      "YouTube API",
-      "Pandas",
-      "NumPy"
-    ],
-    "githubLink": "https://github.com/sayed2174/youtube-comments-extractor"
-  },
-  {
-    "title": "YouTube Video Downloader",
-    "description": "An Android app for downloading YouTube videos, utilizing the yt-dlp Python library integrated via the Chaquopy interpreter.",
-    "tags": [
-      "Android",
-      "Android Studio",
-      "Chaquopy",
-      "Material 3",
-      "Threading",
-      "Java"
-    ],
-    "githubLink": "https://github.com/sayed2174/YT-Downloader"
-  },
-  {
-    "title": "Google Form Data Extractor",
-    "description": "An automation script that captures Google Form submissions, stores the data in a Google Sheet, and makes it available to be used in web pages built with JS or React.",
-    "tags": [
-      "Python",
-      "Automation",
-      "Apps Script",
-      "CSS",
-      "HTML"
-    ],
-    "githubLink": "https://github.com/sayed2174/FormToGoogleSheetDataToWeb"
-  },
-  {
-    "title": "Loan Approval Prediction Model",
-    "description": "A Machine Learning model that predicts whether a loan application should be approved or denied based on provided financial data.",
-    "tags": [
-      "Python",
-      "Scikit-learn",
-      "Pandas",
-      "Random Forest"
-    ],
-    "githubLink": "https://github.com/sayed2174/Loan-Approval-Prediction-System"
-  },
-  {
-    "title": "Customer Churn Prediction Model",
-    "description": "A Machine Learning model that predicts customer churn based on parameters like service usage, reported issues, and other behavioral data.",
-    "tags": [
-      "Python",
-      "Scikit-learn",
-      "Pandas",
-      "KNN",
-      "Random Forest"
-    ],
-    "githubLink": "https://github.com/sayed2174/Customer-Churn-Prediction"
-  },
-  {
-    "title": "Body Fitness & Diet App",
-    "description": "A health and fitness app that calculates BMI, BMR, and Body Fat Percentage to help users make informed dietary decisions.",
-    "tags": [
-      "Android",
-      "HTML",
-      "CSS",
-      "Android Studio",
-      "Java"
-    ],
-    "githubLink": "https://github.com/sayed2174/Body-Health-Diet-Calculator"
+    "title": "AI Image Recognition App",
+    "description": "An application that leverages TensorFlow and Python to identify objects in uploaded images, with a simple web interface built with Flask.",
+    "youtubeVideoId": "s_dfKAYLg-Q",
+    "tags": ["Python", "TensorFlow", "Flask", "Machine Learning"],
+    "githubLink": "https://github.com/sayed2174",
+    "liveLink": "https://your-ai-app-demo.com"
   }
 ]
