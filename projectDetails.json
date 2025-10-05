@@ -19,7 +19,8 @@
       "chaquopy",
       "materail3"
     ],
-    "githubLink": "https://github.com/sayed2174/Android-Debloater-APP"
+    "githubLink": "https://github.com/sayed2174/Android-Debloater-APP",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Heart Disease Prediction System",
@@ -35,7 +36,8 @@
       "Pandas",
       "supervised algorithm"
     ],
-    "githubLink": "https://github.com/yourprofile/live-wallpaper-app"
+    "githubLink": "https://github.com/yourprofile/live-wallpaper-app",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Live Wallpaper Android Apps",
@@ -46,7 +48,8 @@
       "Java",
       "android"
     ],
-    "githubLink": "https://github.com/sayed2174/Live-Wallpaper-Android-App"
+    "githubLink": "https://github.com/sayed2174/Live-Wallpaper-Android-App",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Video Wallpaper Android Apps",
@@ -57,7 +60,8 @@
       "Java",
       "android"
     ],
-    "githubLink": "https://github.com/yourprofile/live-wallpaper-app"
+    "githubLink": "https://github.com/yourprofile/live-wallpaper-app",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "YouTube Comments Extractor",
@@ -69,7 +73,8 @@
       "pandas",
       "Numpy"
     ],
-    "githubLink": "https://github.com/yourprofile/youtube-comments-extractor"
+    "githubLink": "https://github.com/yourprofile/youtube-comments-extractor",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "YT or Video Downloader",
@@ -83,7 +88,8 @@
       "Threading",
       "Java"
     ],
-    "githubLink": "https://github.com/sayed2174/YT-Downloader"
+    "githubLink": "https://github.com/sayed2174/YT-Downloader",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Google Form Data Extractor",
@@ -96,7 +102,8 @@
       "CSS",
       "HTML"
     ],
-    "githubLink": "https://github.com/sayed2174/FormToGoogleSheetDataToWeb"
+    "githubLink": "https://github.com/sayed2174/FormToGoogleSheetDataToWeb",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Loan Approval Prediction Models",
@@ -108,7 +115,8 @@
       "pandas",
       "Random Forest Model"
     ],
-    "githubLink": "https://github.com/sayed2174/Loan-Approval-Prediction-System"
+    "githubLink": "https://github.com/sayed2174/Loan-Approval-Prediction-System",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Customer Churn Prediction Models",
@@ -121,7 +129,8 @@
       "KNN",
       "Random Forest Model"
     ],
-    "githubLink": "https://github.com/sayed2174/Customer-Churn-Prediction"
+    "githubLink": "https://github.com/sayed2174/Customer-Churn-Prediction",
+    "liveLink": "https://your-live-portfolio-link.com"
   },
   {
     "title": "Body Fitness dietary app",
@@ -134,9 +143,9 @@
       "android studio",
       "Java"
     ],
-    "githubLink": "https://github.com/sayed2174/Body-Health-Diet-Calculator"
-  }
-]
+    "githubLink": "https://github.com/sayed2174/Body-Health-Diet-Calculator",\
+    "liveLink": "https://your-live-portfolio-link.com"
+  },
   {
     "title": "AI Image Recognition App",
     "description": "An application that leverages TensorFlow and Python to identify objects in uploaded images, with a simple web interface built with Flask.",
