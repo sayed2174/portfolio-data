@@ -40,9 +40,116 @@
     "liveLink": null
   },
   {
+    "title": "Live Wallpaper Android Apps",
+    "description": "Android apps for images as dynamic and static wallpapers. It has the time interval featur for choosing the needed and wanted time interval to change of selecting images automatically, and features like selecting and removing images from and to app",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Android Studio",
+      "Java",
+      "android"
+    ],
+    "githubLink": "https://github.com/sayed2174/Live-Wallpaper-Android-App",
+    "liveLink": null
+  },
+  {
+    "title": "Video Wallpaper Android Apps",
+    "description": "Android apps for video as dynamic and static wallpapers. It has features like add and remove the videos from app and time interval for changing the video to video automatically.",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Android Studio",
+      "Java",
+      "android"
+    ],
+    "githubLink": "https://github.com/yourprofile/live-wallpaper-app",
+    "liveLink": null
+  },
+  {
+    "title": "YouTube Comments Extractor",
+    "description": "Tool to extract & analyze YouTube comments. It is the idea of data extraction that extract mining the comments[data] with the help of python and youtube api, so that ethically youtube comments can be extracted and stored as json and excel",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Python",
+      "YouTube API",
+      "pandas",
+      "Numpy"
+    ],
+    "githubLink": "https://github.com/yourprofile/youtube-comments-extractor",
+    "liveLink": null
+  },
+  {
+    "title": "YT or Video Downloader",
+    "description": "Youtube Video Downloader android app which uses yt-dlp python interpreted library which handled by chaquopy python interpreter",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "android",
+      "android studio",
+      "chaquopy",
+      "material3",
+      "Threading",
+      "Java"
+    ],
+    "githubLink": "https://github.com/sayed2174/YT-Downloader",
+    "liveLink": null
+  },
+  {
+    "title": "Google Form Data Extractor",
+    "description": " it is an ideas of filling the g form and stor that form data in google sheet and that sheet data can be used as web data in sites or pages using js or react framwork",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Python",
+      "Automation",
+      "AppScript",
+      "CSS",
+      "HTML"
+    ],
+    "githubLink": "https://github.com/sayed2174/FormToGoogleSheetDataToWeb",
+    "liveLink": null
+  },
+  {
+    "title": "Loan Approval Prediction Models",
+    "description": "ML models for loan approval of customer or not approval.",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Python",
+      "scikit-learn",
+      "pandas",
+      "Random Forest Model"
+    ],
+    "githubLink": "https://github.com/sayed2174/Loan-Approval-Prediction-System",
+    "liveLink": null
+  },
+  {
+    "title": "Customer Churn Prediction Models",
+    "description": "ML models for predicting whether a customer end his service or not based on some parameters such as issues, services and others",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Python",
+      "scikit-learn",
+      "pandas",
+      "KNN",
+      "Random Forest Model"
+    ],
+    "githubLink": "https://github.com/sayed2174/Customer-Churn-Prediction",
+    "liveLink": null
+  },
+  {
+    "title": "Body Fitness dietary app",
+    "description": "This app is for calculating BMI, BMR, BFI for making and deciding diet based on rate and measurement of app results",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "android",
+      "HTML",
+      "CSS",
+      "android studio",
+      "Java"
+    ],
+    "githubLink": "https://github.com/sayed2174/Body-Health-Diet-Calculator",
+    "liveLink": null
+  },
+  {
     "title": "E-commerce Platform",
     "description": "A full-stack e-commerce site featuring product listings, a shopping cart, and a secure checkout process using the MERN stack.",
-    "youtubeVideoId": "gznz-p_ntkU",
+    "youtubeVideoId": "rokGy0huYEA",
     "tags": ["MongoDB", "Express", "React", "Node.js"],
     "githubLink": "https://github.com/sayed2174",
     "liveLink": null
@@ -50,7 +157,7 @@
   {
     "title": "AI Image Recognition App",
     "description": "An application that leverages TensorFlow and Python to identify objects in uploaded images, with a simple web interface built with Flask.",
-    "youtubeVideoId": "s_dfKAYLg-Q",
+    "youtubeVideoId": "rokGy0huYEA",
     "tags": ["Python", "TensorFlow", "Flask", "Machine Learning"],
     "githubLink": "https://github.com/sayed2174",
     "liveLink": "https://your-ai-app-demo.com"
