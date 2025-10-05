@@ -7,6 +7,38 @@
     "githubLink": "https://github.com/sayed2174",
     "liveLink": "https://your-live-portfolio-link.com"
   },
+   {
+    "title": "Android app debloater windows application",
+    "description": "its an windows application which comes with .exe and used for uninstalling or debloating the android applications from windows operating system",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Python",
+      "Java",
+      "android",
+      "android studio",
+      "chaquopy",
+      "materail3"
+    ],
+    "githubLink": "https://github.com/sayed2174/Android-Debloater-APP",
+    "liveLink": null
+  },
+  {
+    "title": "Heart Disease Prediction System",
+    "description": "Heart Disease Prediction System is an Machine Learning model using various supervised algorithms to predict whether a patient has disease or not by using clinical parameters. UI is website based using django framework",
+    "youtubeVideoId": "rokGy0huYEA",
+    "tags": [
+      "Machine Learning",
+      "Python",
+      "Django",
+      "Pretrain models",
+      "Unit Testing using pyunit",
+      "scikit-learn",
+      "Pandas",
+      "supervised algorithm"
+    ],
+    "githubLink": "https://github.com/yourprofile/live-wallpaper-app",
+    "liveLink": null
+  },
   {
     "title": "E-commerce Platform",
     "description": "A full-stack e-commerce site featuring product listings, a shopping cart, and a secure checkout process using the MERN stack.",
