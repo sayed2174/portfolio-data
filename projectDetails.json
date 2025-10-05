@@ -1,12 +1,4 @@
 [
-  {
-    "title": "Portfolio Website",
-    "description": "A dynamic personal portfolio built with React, Tailwind CSS, and Framer Motion to showcase my skills and projects in an interactive way.",
-    "youtubeVideoId": "rokGy0huYEA",
-    "tags": ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-    "githubLink": "https://github.com/sayed2174",
-    "liveLink": "https://your-live-portfolio-link.com"
-  },
    {
     "title": "Android app debloater windows application",
     "description": "its an windows application which comes with .exe and used for uninstalling or debloating the android applications from windows operating system",
@@ -145,21 +137,5 @@
     ],
     "githubLink": "https://github.com/sayed2174/Body-Health-Diet-Calculator",
     "liveLink": null
-  },
-  {
-    "title": "E-commerce Platform",
-    "description": "A full-stack e-commerce site featuring product listings, a shopping cart, and a secure checkout process using the MERN stack.",
-    "youtubeVideoId": "rokGy0huYEA",
-    "tags": ["MongoDB", "Express", "React", "Node.js"],
-    "githubLink": "https://github.com/sayed2174",
-    "liveLink": null
-  },
-  {
-    "title": "AI Image Recognition App",
-    "description": "An application that leverages TensorFlow and Python to identify objects in uploaded images, with a simple web interface built with Flask.",
-    "youtubeVideoId": "rokGy0huYEA",
-    "tags": ["Python", "TensorFlow", "Flask", "Machine Learning"],
-    "githubLink": "https://github.com/sayed2174",
-    "liveLink": "https://your-ai-app-demo.com"
   }
 ]
