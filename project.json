@@ -117,5 +117,29 @@
       "Java"
     ],
     "link": "https://github.com/sayed2174/Body-Health-Diet-Calculator"
+  },
+  {
+    "title": "ReiShare - reverse Internet tethering using Python",
+    "description": "Have you ever thought about, why not to share pc or laptop devices internet to mobile devices via USB cable with high speed internet",
+    "tech": [
+      "android",
+      "Python",
+      "Pyside6",
+      "android studio",
+      "Java"
+    ],
+    "link": "https://drive.google.com/drive/folders/1Jv8wdrdHG5gviVxWGoWJMKlfuIwX073f"
+  },
+  {
+    "title": "WebCam Mic Application",
+    "description": "It's a idea to use phone mic and camera as pc or laptop webcam or systems mic. As come to tech. It's developed using python for server (laptop) side and android app using Android studio for (android os)",
+    "tech": [
+      "android",
+      "Python",
+      "Pyside6",
+      "android studio",
+      "Java"
+    ],
+    "link": "https://drive.google.com/file/d/146sa43GWVajBO_qYcYUjrrTrLQiBW2qg/view?usp=drivesdk"
   }
 ]
